@@ -37,4 +37,4 @@ sudo ./install.sh
 ### Donate!
 Support the authors:
 
-<noscript><a href="paypal.me/snowboy99"><img alt="Donate using Liberapay" src="https://www.paypalobjects.com/webstatic/icon/pp32.png"></a></noscript>
+<noscript><a href="https://www.paypal.me/snowboy99"><img alt="Donate using Liberapay" src="https://www.paypalobjects.com/webstatic/icon/pp32.png"></a></noscript>
